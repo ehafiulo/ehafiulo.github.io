@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ehafiulo.github.io/JIE/sitemap_index.txt
+Sitemap: https://ehafiulo.github.io/LNs/sitemap_index.txt
+Sitemap: https://ehafiulo.github.io/UKa/sitemap_index.txt
+Sitemap: https://ehafiulo.github.io/iSQ/sitemap_index.txt
